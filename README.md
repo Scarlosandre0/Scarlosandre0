@@ -8,6 +8,7 @@
 
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=Scarlosandre0&show_icons=true&theme=dracula)
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scarlosandre0)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso no meu dia
